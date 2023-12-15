@@ -45,7 +45,7 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
 ### Back-End
 - [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs): Comprehensive resources for Node.js frameworks, libraries, and tools.
 - [Awesome Laravel](https://github.com/chiraggude/awesome-laravel): Curated Laravel packages, resources, and opinions.
-- [Awesome Rails](https://github.com/gramantin/awesome-rails): Best practices and coding conventions for Rails framework.
+- [Awesome Ruby on Rails](https://github.com/gramantin/awesome-rails): Best practices and coding conventions for Ruby on Rails framework.
 - [Awesome Django](https://github.com/wsvincent/awesome-django): Collection of Django frameworks, libraries, and resources.
 - [Awesome Flask](https://github.com/mjhea0/awesome-flask): Curated Flask frameworks, libraries, and resources.
 - [Awesome Go](https://github.com/avelino/awesome-go): Comprehensive list of Go frameworks, libraries, software, and resources.
