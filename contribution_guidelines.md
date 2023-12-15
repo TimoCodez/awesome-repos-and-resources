@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-We welcome contributions to [Your Project Name]! If you know of a resource or repository that would be a great fit for this list, please follow these guidelines to contribute.
+We welcome contributions to awesome-repos-and-resources! If you know of a resource or repository that would be a great fit for this list, please follow these guidelines to contribute.
 
 ## How to Contribute
 
