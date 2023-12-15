@@ -38,15 +38,15 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
 ## Frameworks and Libraries
 
 ### Front-End
-- [Awesome Front-End](https://github.com/sorrycc/awesome-frontend): Collection of front-end frameworks, libraries, and resources.
-- [Awesome React Native](https://github.com/wix/react-native-awesome): Curated list of React Native components, tools, and resources.
+- [Awesome Front-End](https://github.com/syaning/awesome-frontend): Collection of front-end frameworks, libraries, and resources.
+- [Awesome React Native](https://github.com/jondot/awesome-react-native): Curated list of React Native components, tools, and resources.
 - [Awesome Flutter](https://github.com/Solido/awesome-flutter): Extensive resources for Flutter, including libraries, tools, and tutorials.
 
 ### Back-End
 - [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs): Comprehensive resources for Node.js frameworks, libraries, and tools.
 - [Awesome Laravel](https://github.com/chiraggude/awesome-laravel): Curated Laravel packages, resources, and opinions.
-- [Awesome Rails](https://github.com/gramsantin/awesome-rails): Best practices and coding conventions for Rails framework.
-- [Awesome Django](https://github.com/vinta/awesome-django): Collection of Django frameworks, libraries, and resources.
+- [Awesome Rails](https://github.com/gramantin/awesome-rails): Best practices and coding conventions for Rails framework.
+- [Awesome Django](https://github.com/wsvincent/awesome-django): Collection of Django frameworks, libraries, and resources.
 - [Awesome Flask](https://github.com/mjhea0/awesome-flask): Curated Flask frameworks, libraries, and resources.
 - [Awesome Go](https://github.com/avelino/awesome-go): Comprehensive list of Go frameworks, libraries, software, and resources.
 - [Awesome Rust](https://github.com/rust-unofficial/awesome-rust): Curated projects and learning resources focused on Rust.
@@ -97,8 +97,4 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
 
 ## Contribution Guidelines
 
-If you know of an awesome repository that isn't listed here, feel free to add it! Please follow these guidelines:
-
-    Make sure the repository is well-maintained and widely recognized for its quality.
-    Add the repository or a course link under the appropriate category with a brief description.
-    Submit a pull request with your additions.
+See the separate file
