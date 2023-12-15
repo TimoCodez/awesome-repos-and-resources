@@ -93,6 +93,30 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
 - [sql-playground.wizardzines.com/](https://sql-playground.wizardzines.com/): Interactive tool for SQL query experimentation.
 - [sandboxsql.com/](https://www.sandboxsql.com/): Cloud-based SQL database for practice and experimentation.
 
+## Mathematics Base for Programmers, Data Field and Machine Learning
+
+### Mathematics and Statistics Courses (FREE)
+
+- [Khan Academy - Statistics and Probability](https://www.khanacademy.org/math/statistics-probability)
+- [Khan Academy - Probability](https://www.khanacademy.org/math/probability)
+- [Khan Academy - AP Statistics](https://www.khanacademy.org/math/ap-statistics)
+- [Khan Academy - Precalculus](https://www.khanacademy.org/math/precalculus)
+- [Khan Academy - Differential Calculus](https://www.khanacademy.org/math/differential-calculus)
+- [Khan Academy - Integral Calculus](https://www.khanacademy.org/math/integral-calculus)
+- [Khan Academy - Calculus 1](https://www.khanacademy.org/math/calculus-1)
+- [Khan Academy - Calculus 2](https://www.khanacademy.org/math/calculus-2)
+- [Khan Academy - AP Calculus AB](https://www.khanacademy.org/math/ap-calculus-ab)
+- [Khan Academy - AP Calculus BC](https://www.khanacademy.org/math/ap-calculus-bc)
+- [Khan Academy - Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
+
+### Machine Learning Mathematics Courses on Coursera (FREE TO AUDIT)
+
+- [Coursera - Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science)
+- [Coursera - Machine Learning: Probability and Statistics](https://www.coursera.org/learn/machine-learning-probability-and-statistics)
+- [Coursera - Machine Learning: Calculus](https://www.coursera.org/learn/machine-learning-calculus)
+- [Coursera - Machine Learning: Linear Algebra](https://www.coursera.org/learn/machine-learning-linear-algebra)
+
+
 
 
 ## Contribution Guidelines
