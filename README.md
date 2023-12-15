@@ -97,24 +97,24 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
 
 ### Mathematics and Statistics Courses (FREE)
 
-- [Khan Academy - Statistics and Probability](https://www.khanacademy.org/math/statistics-probability)
-- [Khan Academy - Probability](https://www.khanacademy.org/math/probability)
-- [Khan Academy - AP Statistics](https://www.khanacademy.org/math/ap-statistics)
-- [Khan Academy - Precalculus](https://www.khanacademy.org/math/precalculus)
-- [Khan Academy - Differential Calculus](https://www.khanacademy.org/math/differential-calculus)
-- [Khan Academy - Integral Calculus](https://www.khanacademy.org/math/integral-calculus)
-- [Khan Academy - Calculus 1](https://www.khanacademy.org/math/calculus-1)
-- [Khan Academy - Calculus 2](https://www.khanacademy.org/math/calculus-2)
-- [Khan Academy - AP Calculus AB](https://www.khanacademy.org/math/ap-calculus-ab)
-- [Khan Academy - AP Calculus BC](https://www.khanacademy.org/math/ap-calculus-bc)
-- [Khan Academy - Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
+- [Khan Academy - Statistics and Probability](https://www.khanacademy.org/math/statistics-probability): Ideal for data analysts and data scientists, this course covers foundational concepts in statistics and probability.
+- [Khan Academy - Probability](https://www.khanacademy.org/math/probability): Essential for software engineers and AI specialists, focusing on probability theories and applications.
+- [Khan Academy - AP Statistics](https://www.khanacademy.org/math/ap-statistics): Great for aspiring data scientists, offering advanced statistics concepts used in data analysis.
+- [Khan Academy - Precalculus](https://www.khanacademy.org/math/precalculus): Useful for developers and engineers, providing a strong mathematical foundation.
+- [Khan Academy - Differential Calculus](https://www.khanacademy.org/math/differential-calculus): Important for AI and machine learning professionals, covering the basics of differential calculus.
+- [Khan Academy - Integral Calculus](https://www.khanacademy.org/math/integral-calculus): Key for those in scientific computing and algorithm development, focusing on integral calculus.
+- [Khan Academy - Calculus 1](https://www.khanacademy.org/math/calculus-1): Essential for programmers and analysts, offering an introduction to calculus.
+- [Khan Academy - Calculus 2](https://www.khanacademy.org/math/calculus-2): Advanced calculus topics beneficial for machine learning and complex algorithm developers.
+- [Khan Academy - AP Calculus AB](https://www.khanacademy.org/math/ap-calculus-ab): Useful for software developers, covering first-semester college calculus.
+- [Khan Academy - AP Calculus BC](https://www.khanacademy.org/math/ap-calculus-bc): Second-semester college calculus, important for engineers and AI professionals.
+- [Khan Academy - Linear Algebra](https://www.khanacademy.org/math/linear-algebra): Critical for machine learning and data science, focusing on linear algebra concepts.
 
 ### Machine Learning Mathematics Courses on Coursera (FREE TO AUDIT)
 
-- [Coursera - Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science)
-- [Coursera - Machine Learning: Probability and Statistics](https://www.coursera.org/learn/machine-learning-probability-and-statistics)
-- [Coursera - Machine Learning: Calculus](https://www.coursera.org/learn/machine-learning-calculus)
-- [Coursera - Machine Learning: Linear Algebra](https://www.coursera.org/learn/machine-learning-linear-algebra)
+- [Coursera - Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science): A comprehensive series for data scientists and AI practitioners, covering essential mathematical concepts for machine learning and data science.
+- [Coursera - Machine Learning: Probability and Statistics](https://www.coursera.org/learn/machine-learning-probability-and-statistics): Focused on probability and statistics in machine learning, this course is vital for machine learning engineers and data analysts.
+- [Coursera - Machine Learning: Calculus](https://www.coursera.org/learn/machine-learning-calculus): Designed for machine learning enthusiasts, it delves into the calculus concepts used in machine learning algorithms.
+- [Coursera - Machine Learning: Linear Algebra](https://www.coursera.org/learn/machine-learning-linear-algebra): Essential for anyone in AI and machine learning, focusing on linear algebra and its applications in machine learning models.
 
 
 
