@@ -32,13 +32,16 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
 ### NoSQL
 - [Awesome NoSQL](https://github.com/erictleung/awesome-nosql-guides): Curated list of NoSQL Resources
 
-### Datasets
+### Public Datasets and APIs
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets): Topic-centric list of public dataasets
+- [Public APIs by marcelscruz](https://github.com/marcelscruz/public-apis): A collective list of free APIs for development. Beneficial for software developers and API integrators.
 
+  
 ## Frameworks and Libraries
 
 ### Front-End
 - [Awesome Front-End](https://github.com/syaning/awesome-frontend): Collection of front-end frameworks, libraries, and resources.
+- [Design Resources for Developers by bradtraversy](https://github.com/bradtraversy/design-resources-for-developers): A comprehensive list of design and UI resources for developers. Useful for front-end developers and web designers.
 - [Awesome React Native](https://github.com/jondot/awesome-react-native): Curated list of React Native components, tools, and resources.
 - [Awesome Flutter](https://github.com/Solido/awesome-flutter): Extensive resources for Flutter, including libraries, tools, and tutorials.
 
@@ -69,7 +72,9 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
 - [Pg4e.com](https://www.pg4e.com/): Tutorials on working with PostgreSQL databases.
 - [Kaggle](https://www.kaggle.com/): Platform for data scientists with machine learning competitions and shared resources.
 
-## Practice Sites
+## Cyber Security Repos and Practice Sites
+- [Awesome Pentest by enaqx](https://github.com/enaqx/awesome-pentest): A collection of penetration testing resources, tools, and more. Essential for cybersecurity professionals and penetration testers.
+- [Awesome Cybersecurity by liyansong2018](https://github.com/liyansong2018/awesome-cybersecurity): A curated collection of cybersecurity resources. Great for anyone in the cybersecurity field, including security analysts and ethical hackers.
 - [PicoCTF](https://picoctf.org/): Online CTF game for learning cybersecurity through challenges.
 - [TryHackMe](https://tryhackme.com/): Cybersecurity challenges with tutorials, walkthroughs, and lab environments.
 - [PortSwigger Academy](https://portswigger.net/web-security): Courses on web application security from the creators of Burp Suite.
@@ -93,6 +98,10 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
 - [sql-playground.wizardzines.com/](https://sql-playground.wizardzines.com/): Interactive tool for SQL query experimentation.
 - [sandboxsql.com/](https://www.sandboxsql.com/): Cloud-based SQL database for practice and experimentation.
 
+## Docker and Kubernetes
+- [Awesome Docker by veggiemonk](https://github.com/veggiemonk/awesome-docker): A curated list of Docker resources and projects. Ideal for DevOps engineers and cloud computing professionals.
+- [Awesome K8s Resources by tomhuang12](https://github.com/tomhuang12/awesome-k8s-resources): An extensive collection of Kubernetes resources and tools. Great for system administrators and engineers working in container orchestration.
+
 ## Mathematics Base for Programmers, Data Field and Machine Learning
 
 ### Mathematics and Statistics Courses (FREE)
@@ -115,8 +124,6 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
 - [Coursera - Machine Learning: Probability and Statistics](https://www.coursera.org/learn/machine-learning-probability-and-statistics): Focused on probability and statistics in machine learning, this course is vital for machine learning engineers and data analysts.
 - [Coursera - Machine Learning: Calculus](https://www.coursera.org/learn/machine-learning-calculus): Designed for machine learning enthusiasts, it delves into the calculus concepts used in machine learning algorithms.
 - [Coursera - Machine Learning: Linear Algebra](https://www.coursera.org/learn/machine-learning-linear-algebra): Essential for anyone in AI and machine learning, focusing on linear algebra and its applications in machine learning models.
-
-
 
 
 ## Contribution Guidelines
