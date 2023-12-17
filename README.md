@@ -133,7 +133,9 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
 ## Roadmaps
 - [Roadmap.sh](https://roadmap.sh/): Multiple language and techfield based roadmaps.
 
-  
+
+## Contact
+If you have any question about this collection of links, do not hesitate to contact me @TimoCodes on Twitter or open an issue on GitHub.
 
 ## Contribution Guidelines
 
