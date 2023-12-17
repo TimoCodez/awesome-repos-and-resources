@@ -91,7 +91,7 @@ By following these steps, you can contribute to the project directly from your b
 
 If you have any questions or suggestions, feel free to open an issue in the repository, and we'll do our best to get back to you.
 
-Thank you for your contributions, and let's make [Your Project Name] an incredible resource for everyone in the tech community!
+Thank you for your contributions, and let's make this repo an incredible resource for everyone in the tech community!
 
 ---
 
