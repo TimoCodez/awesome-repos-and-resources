@@ -61,7 +61,8 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
 - [W3Schools](https://www.w3schools.com/): Comprehensive resource for learning web development languages and technologies.
 - [FreeCodeCamp](https://www.freecodecamp.org/): Free coding bootcamp with interactive tutorials and exercises.
 - [FullStackOpen](https://fullstackopen.com/en/): Open-source Full-Stack Web Development Course from University of Helsinki and Houston.
-- [Mooc.fi](https://www.mooc.fi/en/study-modules/): Finnish MOOC platform offering courses in programming and data science.
+- [Mooc.fi](https://www.mooc.fi/en/study-modules/): Finnish MOOC platform offering courses in programming, Cybersecurity and data science in English and Finnish.
+  
 - [The Odin Project](https://www.theodinproject.com/): Structured curriculum for learning web development.
 - [Dataquest.io](https://www.dataquest.io/): Courses on data science topics, including SQL, Python, and Machine Learning.
 - [DataCamp](https://www.datacamp.com/): Interactive courses on data science with hands-on projects and community support.
