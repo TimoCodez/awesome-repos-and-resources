@@ -90,6 +90,10 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
 - [Intigriti](https://www.intigriti.com/): Bug bounty programs and security services for companies.
 - [BugCrowd](https://www.bugcrowd.com/): Platform for cybersecurity professionals to find and report vulnerabilities.
 
+## Online Tools and Platforms for Cybersecurity 
+
+- [Shodan](https://www.shodan.io/): A search engine for Internet-connected devices. It's an invaluable tool for network security professionals and cybersecurity researchers, helping to discover which of your devices are connected to the internet, where they are located, and who is using them.
+
 ## SQL Practice Sites
 - [SQLFiddle](http://sqlfiddle.com/): Interactive tool for experimenting with SQL queries.
 - [GetSQLPad](https://getsqlpad.com/): Collaborative environment for practicing SQL queries.
@@ -128,6 +132,8 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
 
 ## Roadmaps
 - [Roadmap.sh](https://roadmap.sh/): Multiple language and techfield based roadmaps.
+
+  
 
 ## Contribution Guidelines
 
