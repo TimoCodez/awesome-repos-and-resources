@@ -2,6 +2,13 @@
 
 We welcome contributions to awesome-repos-and-resources! If you know of a resource or repository that would be a great fit for this list, please follow these guidelines to contribute.
 
+## Guidelines for Contributions
+
+- **Quality over Quantity**: We prefer quality resources that offer clear and valuable insights or information. 
+- **Relevance**: Ensure that your contributions are relevant to the tech community and fit within the existing categories.
+- **No Spam**: Contributions should not be promotional or spammy in nature.
+
+
 ## How to Contribute
 
 1. **Fork the Repository**
@@ -32,12 +39,6 @@ We welcome contributions to awesome-repos-and-resources! If you know of a resour
 8. **Submit a Pull Request**
    - Push your changes to your fork and then submit a pull request to the main repository.
    - In your pull request description, explain your changes and reference any related issues.
-
-## Guidelines for Contributions
-
-- **Quality over Quantity**: We prefer quality resources that offer clear and valuable insights or information. 
-- **Relevance**: Ensure that your contributions are relevant to the tech community and fit within the existing categories.
-- **No Spam**: Contributions should not be promotional or spammy in nature.
 
 ## Updating Your Pull Request
 
