@@ -14,16 +14,20 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
 - [Awesome Svelte Kit](https://github.com/one-aalam/awesome-svelte-kit): Curated resources for Svelte Kit, including libraries, tools, and frameworks.
 - [Awesome Remix](https://github.com/m5r/awesome-remix): Collection of resources for Remix, encompassing libraries, tools, and frameworks.
 - [Awesome Astro](https://github.com/one-aalam/awesome-astro): Curated list of Astro resources, libraries, tools, and frameworks.
+- [JavaScript Algorithms by trekhleb](https://github.com/trekhleb/javascript-algorithms): Contains JavaScript-based examples of many popular algorithms and data structures. Great for JavaScript developers and computer science students.
 
 ### Python
 - [Awesome Python](https://github.com/vinta/awesome-python): Extensive list of Python libraries, frameworks, and resources.
 - [Awesome Data Science](https://github.com/academic/awesome-datascience): Collection of data science frameworks, libraries, resources, and tools.
 - [Awesome Data Science resources](https://github.com/natnew/Awesome-Data-Science): Comprehensive list for machine learning frameworks, libraries, and resources.
-- [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning): Curated resources for machine learning, including frameworks and libraries.
+
 
 #### Machine Learning
 - [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow): Curated TensorFlow tutorials, libraries, and resources.
 - [Awesome PyTorch](https://github.com/bharathgs/Awesome-pytorch-list): Collection of PyTorch frameworks, libraries, and resources.
+- [Ollama by jmorganca](https://github.com/jmorganca/ollama): An innovative project focused on machine learning and AI. Perfect for those interested in cutting-edge AI developments.
+- [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning): Curated resources for machine learning, including frameworks and libraries.
+
 
 ### SQL
 - [Awesome SQL](https://github.com/danhuss/awesome-sql): Curated list of SQL tools, libraries, resources, and tutorials.
@@ -55,14 +59,16 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
 - [Awesome Rust](https://github.com/rust-unofficial/awesome-rust): Curated projects and learning resources focused on Rust.
 - [Awesome Spring](https://github.com/ThomasVitale/awesome-spring): Collection of Spring Framework libraries, tools, and resources.
 
-## Free Courses
+## Free Courses, websites and repos
 - [Codewars](https://www.codewars.com/): Online code challenges for programming skill development.
 - [LeetCode](https://leetcode.com/): Platform with a vast library of programming problems for practice.
 - [W3Schools](https://www.w3schools.com/): Comprehensive resource for learning web development languages and technologies.
 - [FreeCodeCamp](https://www.freecodecamp.org/): Free coding bootcamp with interactive tutorials and exercises.
+- [freeCodeCamp by freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp): An open-source community that helps you learn to code. Perfect for beginners and those looking to strengthen their programming skills.
 - [FullStackOpen](https://fullstackopen.com/en/): Open-source Full-Stack Web Development Course from University of Helsinki and Houston.
 - [Mooc.fi](https://www.mooc.fi/en/study-modules/): Finnish MOOC platform offering courses in programming, Cybersecurity and data science in English and Finnish.
-  
+- [Best Websites for Programmers by sdmg15](https://github.com/sdmg15/Best-websites-a-programmer-should-visit): An essential list of websites and resources for programmers. Useful for all levels of software developers and computer science students.
+- [Web Development for Beginners by Microsoft](https://github.com/microsoft/Web-Dev-For-Beginners): A 24-lesson curriculum all about JavaScript, CSS, and HTML basics. Ideal for those starting in web development. 
 - [The Odin Project](https://www.theodinproject.com/): Structured curriculum for learning web development.
 - [Dataquest.io](https://www.dataquest.io/): Courses on data science topics, including SQL, Python, and Machine Learning.
 - [DataCamp](https://www.datacamp.com/): Interactive courses on data science with hands-on projects and community support.
@@ -72,6 +78,7 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
 - [Dj4e.com](https://www.dj4e.com/): Interactive Python tutorials on data visualization using Matplotlib.
 - [Pg4e.com](https://www.pg4e.com/): Tutorials on working with PostgreSQL databases.
 - [Kaggle](https://www.kaggle.com/): Platform for data scientists with machine learning competitions and shared resources.
+
 
 ## Cyber Security Repos and Practice Sites
 - [Awesome Pentest by enaqx](https://github.com/enaqx/awesome-pentest): A collection of penetration testing resources, tools, and more. Essential for cybersecurity professionals and penetration testers.
@@ -94,6 +101,12 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
 
 - [Shodan](https://www.shodan.io/): A search engine for Internet-connected devices. It's an invaluable tool for network security professionals and cybersecurity researchers, helping to discover which of your devices are connected to the internet, where they are located, and who is using them.
 
+## Project repos, tools and websites
+- [30 Seconds of Code by Chalarangelo](https://github.com/Chalarangelo/30-seconds-of-code): A collection of short code snippets for all your development needs. Ideal for quick learning and reference for developers.
+- [Projects by karan](https://github.com/karan/Projects): A list of practical projects that anyone can solve in any programming language. Suitable for developers looking to improve their coding skills.
+- [Build Your Own X by codecrafters-io](https://github.com/codecrafters-io/build-your-own-x): Encourages you to learn by doing, by building clones of popular technologies. Fantastic for hands-on learners and developers looking to understand how things work.
+- [Threestudio by threestudio-project](https://github.com/threestudio-project/threestudio): A creative tool for 3D design and animation. Great for designers and developers in game development and 3D modeling.
+
 ## SQL Practice Sites
 - [SQLFiddle](http://sqlfiddle.com/): Interactive tool for experimenting with SQL queries.
 - [GetSQLPad](https://getsqlpad.com/): Collaborative environment for practicing SQL queries.
@@ -106,6 +119,9 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
 ## Docker and Kubernetes
 - [Awesome Docker by veggiemonk](https://github.com/veggiemonk/awesome-docker): A curated list of Docker resources and projects. Ideal for DevOps engineers and cloud computing professionals.
 - [Awesome K8s Resources by tomhuang12](https://github.com/tomhuang12/awesome-k8s-resources): An extensive collection of Kubernetes resources and tools. Great for system administrators and engineers working in container orchestration.
+
+## System Design
+- [System Design Primer by donnemartin](https://github.com/donnemartin/system-design-primer): A repository to learn about system design. Invaluable for software engineers and system architects.
 
 ## Mathematics Base for Programmers, Data Field and Machine Learning
 
@@ -132,6 +148,8 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
 
 ## Roadmaps
 - [Roadmap.sh](https://roadmap.sh/): Multiple language and techfield based roadmaps.
+- [Data Science Master by datasciencemasters](https://github.com/datasciencemasters/go): An open-source data science curriculum. Excellent for aspiring data scientists and analysts.
+- [Roadmap To Learn Generative AI In 2024 by krishnaik06](https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024): A comprehensive roadmap for learning Generative AI, ideal for AI enthusiasts and professionals looking to specialize in generative models.
 
 
 ## Contact
@@ -140,3 +158,12 @@ If you have any question about this collection of links, do not hesitate to cont
 ## Contribution Guidelines
 
 See the separate file [Contribution Guidelines](https://github.com/TimoCodez/awesome-repos-and-resources/blob/main/contribution_guidelines.md)
+
+
+
+
+
+
+
+
+
