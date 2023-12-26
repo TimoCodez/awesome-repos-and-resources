@@ -94,6 +94,7 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
 - [Haiku](https://product.haikuinc.io/haiku/): Interactive walkthroughs for learning cybersecurity concepts.
 - [LetsDefend.io](https://letsdefend.io/): Cybersecurity training with tutorials, exercises, and community forums.
 - [Hacker101](https://www.hacker101.com/): Comprehensive curriculum for learning cybersecurity skills.
+- [Certified in Cybersecurity](https://www.isc2.org/certifications/cc): CC Entry level
 
 ## Bug Bounty Platforms
 - [HackerOne](https://www.hackerone.com/): Platform connecting security researchers with companies for vulnerability reporting.
