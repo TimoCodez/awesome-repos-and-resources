@@ -82,6 +82,8 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
 - [Pg4e.com](https://www.pg4e.com/): Tutorials on working with PostgreSQL databases.
 - [Kaggle](https://www.kaggle.com/): Platform for data scientists with machine learning competitions and shared resources.
 
+## CLI
+- [Awesome Bash](https://github.com/awesome-lists/awesome-bash): Curated list for bash scripting
 
 ## Cyber Security Repos and Practice Sites
 - [Awesome Pentest by enaqx](https://github.com/enaqx/awesome-pentest): A collection of penetration testing resources, tools, and more. Essential for cybersecurity professionals and penetration testers.
