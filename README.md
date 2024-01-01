@@ -85,6 +85,7 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
 ## CLI
 - [Awesome Bash](https://github.com/awesome-lists/awesome-bash): Curated list for bash scripting
 - [Awesome PowerShell](https://github.com/janikvonrotz/awesome-powershell): Curated list of Awesome PowerShell resources
+- [Awesome Shell](https://github.com/alebcay/awesome-shell): A curated list of Linux Shell resources etc.
 
 ## Cyber Security Repos and Practice Sites
 - [Awesome Pentest by enaqx](https://github.com/enaqx/awesome-pentest): A collection of penetration testing resources, tools, and more. Essential for cybersecurity professionals and penetration testers.
