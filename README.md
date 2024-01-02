@@ -158,6 +158,7 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
 - [Roadmap.sh](https://roadmap.sh/): Multiple language and techfield based roadmaps.
 - [Data Science Master by datasciencemasters](https://github.com/datasciencemasters/go): An open-source data science curriculum. Excellent for aspiring data scientists and analysts.
 - [Roadmap To Learn Generative AI In 2024 by krishnaik06](https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024): A comprehensive roadmap for learning Generative AI, ideal for AI enthusiasts and professionals looking to specialize in generative models.
+- [OSSU](https://github.com/ossu/computer-science): Open Source Society University. Path to a free self-taught education in Computer Science!
 
 
 ## Contact
