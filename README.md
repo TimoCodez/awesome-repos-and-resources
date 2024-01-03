@@ -87,6 +87,10 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
 - [Awesome PowerShell](https://github.com/janikvonrotz/awesome-powershell): Curated list of Awesome PowerShell resources
 - [Awesome Shell](https://github.com/alebcay/awesome-shell): A curated list of Linux Shell resources etc.
 
+## Cloud
+### Azure
+- [Awesome Azure Architecture](https://github.com/lukemurraynz/awesome-azure-architecture): A curated list of AWESOME blogs, videos, tutorials, code, tools & scripts, related to the design and implementation of solutions in Microsoft Azure
+
 ## Cyber Security Repos and Practice Sites
 - [Awesome Pentest by enaqx](https://github.com/enaqx/awesome-pentest): A collection of penetration testing resources, tools, and more. Essential for cybersecurity professionals and penetration testers.
 - [Awesome Cybersecurity by liyansong2018](https://github.com/liyansong2018/awesome-cybersecurity): A curated collection of cybersecurity resources. Great for anyone in the cybersecurity field, including security analysts and ethical hackers.
