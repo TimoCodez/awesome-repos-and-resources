@@ -90,6 +90,8 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
 ## Cloud
 ### Azure
 - [Awesome Azure Architecture](https://github.com/lukemurraynz/awesome-azure-architecture): A curated list of AWESOME blogs, videos, tutorials, code, tools & scripts, related to the design and implementation of solutions in Microsoft Azure
+### GCP
+- [Awesome GCP](https://github.com/GoogleCloudPlatform/awesome-google-cloud): A curated list of awesome applications, tools, and resources for Google Cloud Platform.
 
 ## Cyber Security Repos and Practice Sites
 - [Awesome Pentest by enaqx](https://github.com/enaqx/awesome-pentest): A collection of penetration testing resources, tools, and more. Essential for cybersecurity professionals and penetration testers.
