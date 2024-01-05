@@ -79,9 +79,9 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
 - [DataCamp](https://www.datacamp.com/): Interactive courses on data science with hands-on projects and community support.
 - [SoloLearn](https://www.sololearn.com/en/): Coding courses for beginners and experienced developers.
 - [Mimo](https://mimo.org/): Interactive coding lessons in a gamified mobile app format.
-- [Py4e.com](https://www.py4e.com/): Interactive Python tutorials covering the basics of the language.
-- [Dj4e.com](https://www.dj4e.com/): Interactive Python tutorials on data visualization using Matplotlib.
-- [Pg4e.com](https://www.pg4e.com/): Tutorials on working with PostgreSQL databases.
+- [Py4e.com](https://www.py4e.com/): Python for everybody. Interactive Python tutorials covering the basics of the language.
+- [Dj4e.com](https://www.dj4e.com/): Django for everybody Interactive Python Django tutorials.
+- [Pg4e.com](https://www.pg4e.com/): PostgreSQL for Everybody. Tutorials on working with PostgreSQL databases.
 - [Kaggle](https://www.kaggle.com/): Platform for data scientists with machine learning competitions and shared resources.
 
 ## CLI
