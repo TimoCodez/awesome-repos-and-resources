@@ -1,4 +1,6 @@
-# Awesome Repos and Great Online Resources to Get into Tech: A Treasure Trove of Open-Source Goodness
+# Awesome Repos and Great Online Resources to Get into Tech
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 
 This curated collection of awesome repositories on GitHub is a comprehensive guide for developers, aspiring programmers, and anyone interested in exploring the vast world of open-source software. The list covers programming languages, frameworks, data science, DevOps, and more, offering valuable resources for various stages of development and learning. Theer are list of courses and practices site also included.
 
