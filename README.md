@@ -47,8 +47,7 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
 
 ### Front-End
 - [Awesome Front-End](https://github.com/syaning/awesome-frontend): Collection of front-end frameworks, libraries, and resources.
-- [Awesome React Native](https://github.com/jondot/awesome-react-native): Curated list of React Native components, tools, and resources.
-- [Awesome Flutter](https://github.com/Solido/awesome-flutter): Extensive resources for Flutter, including libraries, tools, and tutorials.
+
 
 ### Back-End
 - [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs): Comprehensive resources for Node.js frameworks, libraries, and tools.
@@ -59,6 +58,12 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
 - [Awesome Go](https://github.com/avelino/awesome-go): Comprehensive list of Go frameworks, libraries, software, and resources.
 - [Awesome Rust](https://github.com/rust-unofficial/awesome-rust): Curated projects and learning resources focused on Rust.
 - [Awesome Spring](https://github.com/ThomasVitale/awesome-spring): Collection of Spring Framework libraries, tools, and resources.
+
+## Mobile
+- [Awesome Swift](https://github.com/matteocrippa/awesome-swift#readme): Curated list of awesome Swift resources and tutorials.
+- [Awesome React Native](https://github.com/jondot/awesome-react-native): Curated list of React Native components, tools, and resources.
+- [Awesome Flutter](https://github.com/Solido/awesome-flutter): Extensive resources for Flutter, including libraries, tools, and tutorials.
+
 
 ## Design
 - [Design Resources for Developers by bradtraversy](https://github.com/bradtraversy/design-resources-for-developers): A comprehensive list of design and UI resources for developers. Useful for front-end developers and web designers.
