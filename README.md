@@ -1,4 +1,4 @@
-# Awesome Repos and Great Online Resources to Get into Tech
+# Awesome Repos and Online Resources to Get into Tech
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
