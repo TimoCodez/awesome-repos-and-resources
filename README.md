@@ -58,6 +58,7 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
 - [Awesome Go](https://github.com/avelino/awesome-go): Comprehensive list of Go frameworks, libraries, software, and resources.
 - [Awesome Rust](https://github.com/rust-unofficial/awesome-rust): Curated projects and learning resources focused on Rust.
 - [Awesome Spring](https://github.com/ThomasVitale/awesome-spring): Collection of Spring Framework libraries, tools, and resources.
+- [Awesome Deno](https://github.com/denolib/awesome-deno#readme): Curated list of Deno resources.
 
 ## Mobile
 - [Awesome Swift](https://github.com/matteocrippa/awesome-swift#readme): Curated list of awesome Swift resources and tutorials.
