@@ -31,7 +31,7 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning): Curated resources for machine learning, including frameworks and libraries.
 
 ### Java
--[Awesome Java](https://github.com/akullpp/awesome-java#readme): Extensive lists of all things Java.
+- [Awesome Java](https://github.com/akullpp/awesome-java#readme): Extensive lists of all things Java.
 
 
 ### SQL
