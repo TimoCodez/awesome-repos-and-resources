@@ -188,7 +188,7 @@ If you have any question about this collection of links, do not hesitate to cont
 
 ## Contribution Guidelines
 
-See the separate file [Contribution Guidelines](https://github.com/TimoCodez/awesome-repos-and-resources/blob/main/contribution_guidelines.md)
+See the separate file [Contribution Guidelines](https://github.com/TimoCodez/awesome-repos-and-resources/blob/main/CONTRIBUTING.md)
 
 
 
