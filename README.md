@@ -96,6 +96,7 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
 - [Dj4e.com](https://www.dj4e.com/): Django for everybody Interactive Python Django tutorials.
 - [Pg4e.com](https://www.pg4e.com/): PostgreSQL for Everybody. Tutorials on working with PostgreSQL databases.
 - [Kaggle](https://www.kaggle.com/): Platform for data scientists with machine learning competitions and shared resources.
+- [100Devs](https://leonnoel.com/100devs/): Free, community-based program by Leon Noel for tech job skills and full stack development.
 
 ## CLI
 - [Awesome Bash](https://github.com/awesome-lists/awesome-bash): Curated list for bash scripting
