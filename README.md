@@ -4,6 +4,41 @@
 
 This curated collection of awesome repositories on GitHub is a comprehensive guide for developers, aspiring programmers, and anyone interested in exploring the vast world of open-source software. The list covers programming languages, frameworks, data science, DevOps, and more, offering valuable resources for various stages of development and learning. Theer are list of courses and practices site also included.
 
+# Table of Contents
+- [OS](#os)
+  - [Linux](#linux)
+- [Programming Languages](#programming-languages)
+  - [JavaScript](#javascript)
+  - [Python](#python)
+    - [Machine Learning](#machine-learning)
+  - [Java](#java)
+  - [SQL](#sql)
+  - [NoSQL](#nosql)
+  - [Public Datasets and APIs](#public-datasets-and-apis)
+- [Frameworks and Libraries](#frameworks-and-libraries)
+  - [Front-End](#front-end)
+  - [Back-End](#back-end)
+- [Mobile](#mobile)
+- [Design](#design)
+- [Free Courses, websites and repos](#free-courses-websites-and-repos)
+- [CLI](#cli)
+- [Cloud](#cloud)
+  - [Azure](#azure)
+  - [GCP](#gcp)
+- [Cyber Security Repos and Practice Sites](#cyber-security-repos-and-practice-sites)
+- [Bug Bounty Platforms](#bug-bounty-platforms)
+- [Online Tools and Platforms for Cybersecurity](#online-tools-and-platforms-for-cybersecurity)
+- [Project repos, tools and websites](#project-repos-tools-and-websites)
+- [SQL Practice Sites](#sql-practice-sites)
+- [Docker and Kubernetes](#docker-and-kubernetes)
+- [System Design](#system-design)
+- [Mathematics Base for Programmers, Data Field and Machine Learning](#mathematics-base-for-programmers-data-field-and-machine-learning)
+  - [Mathematics and Statistics Courses (FREE)](#mathematics-and-statistics-courses-free)
+  - [Machine Learning Mathematics Courses on Coursera (FREE TO AUDIT)](#machine-learning-mathematics-courses-on-coursera-free-to-audit)
+- [Roadmaps](#roadmaps)
+- [Contact](#contact)
+- [Contribution Guidelines](#contribution-guidelines)
+
 ## OS
 ### Linux
 - [Awesome Linux](https://github.com/inputsh/awesome-linux): Comprehensive list of Linux resources, distros and tools.
