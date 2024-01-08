@@ -8,6 +8,23 @@ We welcome contributions to awesome-repos-and-resources! If you know of a resour
 - **Relevance**: Ensure that your contributions are relevant to the tech community and fit within the existing categories.
 - **No Spam**: Contributions should not be promotional or spammy in nature.
 
+## Table of Contents Guidelines
+
+When making changes to the README.md, it's important to keep the Table of Contents (TOC) up-to-date and organized. Here's what you need to know:
+
+1. **Adding a New Category or Subcategory**
+   - If you add a new **category** or **subcategory**, please also add it to the TOC.
+   - Ensure that the TOC entry links correctly to your new section.
+   - Follow the existing format for TOC entries.
+
+2. **Adding Content Within Existing Categories**
+   - If you're adding content to an existing category or subcategory, **you don't need to update the TOC**.
+   - GitHub automatically handles linking within the document.
+
+3. **Maintaining Consistency**
+   - Ensure that your additions follow the same formatting and style as the existing content.
+   - This helps maintain a consistent and readable structure throughout the document.
+
 
 ## How to Contribute
 
@@ -95,4 +112,4 @@ If you have any questions or suggestions, feel free to open an issue in the repo
 Thank you for your contributions, and let's make this repo an incredible resource for everyone in the tech community!
 
 ---
-
+Remember, these guidelines are in place to keep the repository organized and user-friendly. Your contributions are greatly appreciated, and adherence to these guidelines ensures that the resource remains valuable and accessible to everyone.
