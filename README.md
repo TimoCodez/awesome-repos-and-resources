@@ -133,6 +133,7 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
 - [Pg4e.com](https://www.pg4e.com/): PostgreSQL for Everybody. Tutorials on working with PostgreSQL databases.
 - [Kaggle](https://www.kaggle.com/): Platform for data scientists with machine learning competitions and shared resources.
 - [100Devs](https://leonnoel.com/100devs/): Free, community-based program by Leon Noel for tech job skills and full stack development.
+- [Awesome free courses and certs](https://github.com/cloudcommunity/Free-Certifications): curated list of free courses and certs by Cloudcommunity.
 
 ## CLI
 - [Awesome Bash](https://github.com/awesome-lists/awesome-bash): Curated list for bash scripting
