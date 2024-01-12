@@ -56,6 +56,7 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
 - [Awesome Remix](https://github.com/m5r/awesome-remix): Collection of resources for Remix, encompassing libraries, tools, and frameworks.
 - [Awesome Astro](https://github.com/one-aalam/awesome-astro): Curated list of Astro resources, libraries, tools, and frameworks.
 - [JavaScript Algorithms by trekhleb](https://github.com/trekhleb/javascript-algorithms): Contains JavaScript-based examples of many popular algorithms and data structures. Great for JavaScript developers and computer science students.
+- [Awesome Solid.js](https://github.com/one-aalam/awesome-solid-js): A curated list of awesome things related to SolidJS
 
 ### Python
 - [Awesome Python](https://github.com/vinta/awesome-python): Extensive list of Python libraries, frameworks, and resources.
