@@ -62,7 +62,7 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
 - [Awesome Python](https://github.com/vinta/awesome-python): Extensive list of Python libraries, frameworks, and resources.
 - [Awesome Data Science](https://github.com/academic/awesome-datascience): Collection of data science frameworks, libraries, resources, and tools.
 - [Awesome Data Science resources](https://github.com/natnew/Awesome-Data-Science): Comprehensive list for machine learning frameworks, libraries, and resources.
-
+- [The Python Open Source CS Degree](https://github.com/ForrestKnight/open-source-cs-python/blob/master/README.md): Compiled list of free resources from MIT, Stanford, Princeton, etc. that satisfy the same requirements as an undergraduate Computer Science degree, minus general education.
 
 #### Machine Learning
 - [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow): Curated TensorFlow tutorials, libraries, and resources.
@@ -135,6 +135,7 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
 - [Kaggle](https://www.kaggle.com/): Platform for data scientists with machine learning competitions and shared resources.
 - [100Devs](https://leonnoel.com/100devs/): Free, community-based program by Leon Noel for tech job skills and full stack development.
 - [Awesome free courses and certs](https://github.com/cloudcommunity/Free-Certifications): curated list of free courses and certs by Cloudcommunity.
+- [BitCamp by Bit Project](https://github.com/bitprj/BitCamp): Free, open-source nonprofit providing curriculums for GameDev, JavaScript, NoSQL, Serverless-Functions, and Slack-Apps.
 
 ## CLI
 - [Awesome Bash](https://github.com/awesome-lists/awesome-bash): Curated list for bash scripting
@@ -219,6 +220,7 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
 - [Data Science Master by datasciencemasters](https://github.com/datasciencemasters/go): An open-source data science curriculum. Excellent for aspiring data scientists and analysts.
 - [Roadmap To Learn Generative AI In 2024 by krishnaik06](https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024): A comprehensive roadmap for learning Generative AI, ideal for AI enthusiasts and professionals looking to specialize in generative models.
 - [OSSU](https://github.com/ossu/computer-science): Open Source Society University. Path to a free self-taught education in Computer Science!
+- [One To Seven Free Game Dev Bootcamp](https://github.com/EstebanGameDevelopment/OneToSevenCompleCourse): Free online Game Dev bootcamp 
 
 
 ## Contact
