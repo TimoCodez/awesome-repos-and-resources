@@ -28,6 +28,7 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
 - [Cyber Security Repos and Practice Sites](#cyber-security-repos-and-practice-sites)
 - [Bug Bounty Platforms](#bug-bounty-platforms)
 - [Online Tools and Platforms for Cybersecurity](#online-tools-and-platforms-for-cybersecurity)
+- [GitHub](#Github)
 - [Project repos, tools and websites](#project-repos-tools-and-websites)
 - [SQL Practice Sites](#sql-practice-sites)
 - [Docker and Kubernetes](#docker-and-kubernetes)
@@ -170,6 +171,9 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
 ## Online Tools and Platforms for Cybersecurity 
 
 - [Shodan](https://www.shodan.io/): A search engine for Internet-connected devices. It's an invaluable tool for network security professionals and cybersecurity researchers, helping to discover which of your devices are connected to the internet, where they are located, and who is using them.
+
+## GitHub
+- [Awesome GitHub Profiles](https://github.com/abhisheknaiidu/awesome-github-profile-readme): Awesome list of Awesome GitHub profile READMEs
 
 ## Project repos, tools and websites
 - [30 Seconds of Code by Chalarangelo](https://github.com/Chalarangelo/30-seconds-of-code): A collection of short code snippets for all your development needs. Ideal for quick learning and reference for developers.
