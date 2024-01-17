@@ -161,7 +161,8 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
 - [LetsDefend.io](https://letsdefend.io/): Cybersecurity training with tutorials, exercises, and community forums.
 - [Hacker101](https://www.hacker101.com/): Comprehensive curriculum for learning cybersecurity skills.
 - [Certified in Cybersecurity](https://www.isc2.org/certifications/cc): CC Entry level Cybersecurity Certificate free for the first 1Million participants.
-- [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking): Awesome list of resources for Hackers, Pentesters and Security researchers. 
+- [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking): Awesome list of resources for Hackers, Pentesters and Security researchers.
+- [Awesome web security](https://github.com/qazbnm456/awesome-web-security): A curated list of all things web security and hacking  
 
 ## Bug Bounty Platforms
 - [HackerOne](https://www.hackerone.com/): Platform connecting security researchers with companies for vulnerability reporting.
