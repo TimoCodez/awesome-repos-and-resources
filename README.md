@@ -46,6 +46,7 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
 - [Awesome Linux](https://github.com/inputsh/awesome-linux): Comprehensive list of Linux resources, distros and tools.
  #### Distros
   - [Kali Linux](https://www.kali.org/): The Kali Linux penetration testing platform contains a vast array of tools and utilities.
+  - [ParrotSec](https://www.parrotsec.org/): Choose between 600+ tools for every kind of Red and Blue team operation.
 
 ## Programming Languages
 
