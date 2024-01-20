@@ -7,6 +7,7 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
 # Table of Contents
 - [OS](#os)
   - [Linux](#linux)
+      - [Distros](#distros)
 - [Programming Languages](#programming-languages)
   - [JavaScript](#javascript)
   - [Python](#python)
