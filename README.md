@@ -47,6 +47,7 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
  #### Distros
   - [Kali Linux](https://www.kali.org/): The Kali Linux penetration testing platform contains a vast array of tools and utilities.
   - [ParrotSec](https://www.parrotsec.org/): Choose between 600+ tools for every kind of Red and Blue team operation.
+  - [Ubuntu](https://ubuntu.com/): One of the most commonly used Linux distros.
 
 ## Programming Languages
 
