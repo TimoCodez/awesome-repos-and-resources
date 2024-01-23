@@ -190,6 +190,7 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
 - [Projects by karan](https://github.com/karan/Projects): A list of practical projects that anyone can solve in any programming language. Suitable for developers looking to improve their coding skills.
 - [Build Your Own X by codecrafters-io](https://github.com/codecrafters-io/build-your-own-x): Encourages you to learn by doing, by building clones of popular technologies. Fantastic for hands-on learners and developers looking to understand how things work.
 - [Threestudio by threestudio-project](https://github.com/threestudio-project/threestudio): A creative tool for 3D design and animation. Great for designers and developers in game development and 3D modeling.
+- [Mini projects](https://github.com/Nisheet-Patel/Mini-Projects?tab=readme-ov-file): List of multiple mini projects on various languages.
 
 ## SQL Practice Sites
 - [SQLFiddle](http://sqlfiddle.com/): Interactive tool for experimenting with SQL queries.
