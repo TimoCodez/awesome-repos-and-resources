@@ -31,6 +31,7 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
 - [Online Tools and Platforms for Cybersecurity](#online-tools-and-platforms-for-cybersecurity)
 - [GitHub](#Github)
 - [Project repos, tools and websites](#project-repos-tools-and-websites)
+- [Open-Source](#Open-Source)
 - [SQL Practice Sites](#sql-practice-sites)
 - [Docker and Kubernetes](#docker-and-kubernetes)
 - [System Design](#system-design)
@@ -191,6 +192,9 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
 - [Build Your Own X by codecrafters-io](https://github.com/codecrafters-io/build-your-own-x): Encourages you to learn by doing, by building clones of popular technologies. Fantastic for hands-on learners and developers looking to understand how things work.
 - [Threestudio by threestudio-project](https://github.com/threestudio-project/threestudio): A creative tool for 3D design and animation. Great for designers and developers in game development and 3D modeling.
 - [Mini projects](https://github.com/Nisheet-Patel/Mini-Projects?tab=readme-ov-file): List of multiple mini projects on various languages.
+
+## Open-Source 
+- [Awesome projects for beginners](https://github.com/MunGell/awesome-for-beginners): List of beginner friendly projects.
 
 ## SQL Practice Sites
 - [SQLFiddle](http://sqlfiddle.com/): Interactive tool for experimenting with SQL queries.
