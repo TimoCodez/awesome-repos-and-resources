@@ -8,6 +8,7 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
 - [OS](#os)
   - [Linux](#linux)
       - [Distros](#distros)
+  - [Mac](#Mac)
 - [Programming Languages](#programming-languages)
   - [JavaScript](#javascript)
   - [Python](#python)
@@ -49,7 +50,7 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
   - [Kali Linux](https://www.kali.org/): The Kali Linux penetration testing platform contains a vast array of tools and utilities.
   - [ParrotSec](https://www.parrotsec.org/): Choose between 600+ tools for every kind of Red and Blue team operation.
   - [Ubuntu](https://ubuntu.com/): One of the most commonly used Linux distros.
-## MAC
+## Mac
 - [Awesome Mac](https://github.com/jaywcjlove/awesome-mac): Awesome list of Mac OS resources
 
 ## Programming Languages
