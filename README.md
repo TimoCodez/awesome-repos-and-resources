@@ -183,6 +183,7 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
 ## Online Tools and Platforms for Cybersecurity 
 
 - [Shodan](https://www.shodan.io/): A search engine for Internet-connected devices. It's an invaluable tool for network security professionals and cybersecurity researchers, helping to discover which of your devices are connected to the internet, where they are located, and who is using them.
+- [WhiteRabbitNeo](https://www.whiterabbitneo.com/): Cybersecurity concentrated Chatbot.
 
 ## GitHub
 - [Awesome GitHub Profiles](https://github.com/abhisheknaiidu/awesome-github-profile-readme): Awesome list of Awesome GitHub profile READMEs
