@@ -9,6 +9,8 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
   - [Linux](#linux)
       - [Distros](#distros)
   - [Mac](#Mac)
+  - [Windows11](#windows11)
+    
 - [Programming Languages](#programming-languages)
   - [JavaScript](#javascript)
   - [Python](#python)
@@ -52,6 +54,7 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
   - [Ubuntu](https://ubuntu.com/): One of the most commonly used Linux distros.
 ## Mac
 - [Awesome Mac](https://github.com/jaywcjlove/awesome-mac): Awesome list of Mac OS resources
+- [Windows11](https://github.com/awesome-windows11/windows11): Awesome W11 tips, tricks, tweaks and more.
 
 ## Programming Languages
 
