@@ -127,6 +127,7 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
 - [Design Resources for Developers by bradtraversy](https://github.com/bradtraversy/design-resources-for-developers): A comprehensive list of design and UI resources for developers. Useful for front-end developers and web designers.
 - [Awesome CSS](https://github.com/uhub/awesome-css): Curated list of CSS resources
 - [Awesome Tailwind CSS](https://github.com/aniftyco/awesome-tailwindcss): Curated list of Tailwind CSS resources, plugins, tools and more..
+- [CSS Frameworks](https://github.com/troxler/awesome-css-frameworks): Curated list of different CSS Frameworks. 
 
 ## Free Courses, websites and repos
 - [Codewars](https://www.codewars.com/): Online code challenges for programming skill development.
