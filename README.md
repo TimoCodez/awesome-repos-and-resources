@@ -83,6 +83,7 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
 - [Ollama by jmorganca](https://github.com/jmorganca/ollama): An innovative project focused on machine learning and AI. Perfect for those interested in cutting-edge AI developments.
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning): Curated resources for machine learning, including frameworks and libraries.
 - [Awesome GPTs](https://github.com/Anil-matcha/Top-GPTs): Curated list of top GPTs to dodge the ChatGPT paywall.
+- [Machine Learning for beginners](https://github.com/microsoft/ML-For-Beginners): 12 weeks ML course by Microsoft 
 
 ### Java
 - [Awesome Java](https://github.com/akullpp/awesome-java#readme): Extensive lists of all things Java.
