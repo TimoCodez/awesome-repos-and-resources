@@ -80,6 +80,7 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
 #### Machine Learning
 - [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow): Curated TensorFlow tutorials, libraries, and resources.
 - [Awesome PyTorch](https://github.com/bharathgs/Awesome-pytorch-list): Collection of PyTorch frameworks, libraries, and resources.
+- [OpenCV](https://github.com/opencv/opencv): OpenCV official github with links and resources
 - [Ollama by jmorganca](https://github.com/jmorganca/ollama): An innovative project focused on machine learning and AI. Perfect for those interested in cutting-edge AI developments.
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning): Curated resources for machine learning, including frameworks and libraries.
 - [Awesome GPTs](https://github.com/Anil-matcha/Top-GPTs): Curated list of top GPTs to dodge the ChatGPT paywall.
