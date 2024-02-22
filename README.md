@@ -208,6 +208,7 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
 
 ## Open-Source 
 - [Awesome projects for beginners](https://github.com/MunGell/awesome-for-beginners): List of beginner friendly projects.
+- [Up for grabs](https://up-for-grabs.net/): Filter the projects for your liking and timeframe for last update and get involved.
 
 ## SQL Practice Sites
 - [SQLFiddle](http://sqlfiddle.com/): Interactive tool for experimenting with SQL queries.
