@@ -183,6 +183,7 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
 - [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking): Awesome list of resources for Hackers, Pentesters and Security researchers.
 - [Awesome web security](https://github.com/qazbnm456/awesome-web-security): A curated list of all things web security and hacking
 - [Awesome OSINT](https://github.com/jivoi/awesome-osint): Curated list of amazingly awesome OSINT resources and tools
+- [Awesome Cybersecurity](https://github.com/Berkanktk/CyberSecurity): Massive list of Cybersecurity resources and repos by Berkanktk
 
 ## Bug Bounty Platforms
 - [HackerOne](https://www.hackerone.com/): Platform connecting security researchers with companies for vulnerability reporting.
