@@ -76,6 +76,7 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
 - [Awesome Data Science](https://github.com/academic/awesome-datascience): Collection of data science frameworks, libraries, resources, and tools.
 - [Awesome Data Science resources](https://github.com/natnew/Awesome-Data-Science): Comprehensive list for machine learning frameworks, libraries, and resources.
 - [The Python Open Source CS Degree](https://github.com/ForrestKnight/open-source-cs-python/blob/master/README.md): Compiled list of free resources from MIT, Stanford, Princeton, etc. that satisfy the same requirements as an undergraduate Computer Science degree, minus general education.
+- [Python CS50](https://cs50.harvard.edu/python/2022/): Python CS50
 
 #### Machine Learning
 - [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow): Curated TensorFlow tutorials, libraries, and resources.
