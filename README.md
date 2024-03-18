@@ -87,6 +87,7 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
 - [Awesome GPTs](https://github.com/Anil-matcha/Top-GPTs): Curated list of top GPTs to dodge the ChatGPT paywall.
 - [Machine Learning for beginners](https://github.com/microsoft/ML-For-Beginners): 12 weeks ML course by Microsoft
 - [MIT Deeplearning book](https://github.com/janishar/mit-deep-learning-book-pdf?tab=readme-ov-file): The MIT Deeplearning book on PDF format. Repo includes project template and other goodies.
+- [Awesome Data Science](https://github.com/natnew/Awesome-Data-Science): Awesome data science.
 
 ### Java
 - [Awesome Java](https://github.com/akullpp/awesome-java#readme): Extensive lists of all things Java.
