@@ -186,6 +186,7 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
 - [Awesome web security](https://github.com/qazbnm456/awesome-web-security): A curated list of all things web security and hacking
 - [Awesome OSINT](https://github.com/jivoi/awesome-osint): Curated list of amazingly awesome OSINT resources and tools
 - [Awesome Cybersecurity](https://github.com/Berkanktk/CyberSecurity): Massive list of Cybersecurity resources and repos by Berkanktk
+- [Awesome Censys Queries](https://github.com/thehappydinoa/awesome-censys-queries): Awesome repo for Censys Queries ready to copy paste
 
 ## Bug Bounty Platforms
 - [HackerOne](https://www.hackerone.com/): Platform connecting security researchers with companies for vulnerability reporting.
@@ -196,7 +197,11 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
 
 - [Shodan](https://www.shodan.io/): A search engine for Internet-connected devices. It's an invaluable tool for network security professionals and cybersecurity researchers, helping to discover which of your devices are connected to the internet, where they are located, and who is using them.
 - [WhiteRabbitNeo](https://www.whiterabbitneo.com/): Cybersecurity finetuned Chatbot.
-- [F-Secure SMS checker](https://www.f-secure.com/en/text-message-checker): SMS Scam checker. Currently as of 4/2024 on beta phase 
+- [F-Secure SMS checker](https://www.f-secure.com/en/text-message-checker): SMS Scam checker. Currently as of 4/2024 on beta phase
+- [Search Censys](https://search.censys.io/): censys search tool to find things open into internet
+
+- [GPT Censys](https://gpt.censys.io/): Censys Search GPT
+ 
 
 ## GitHub
 - [Awesome GitHub Profiles](https://github.com/abhisheknaiidu/awesome-github-profile-readme): Awesome list of Awesome GitHub profile READMEs
