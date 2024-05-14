@@ -158,6 +158,7 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
 - [Awesome free courses and certs](https://github.com/cloudcommunity/Free-Certifications): curated list of free courses and certs by Cloudcommunity.
 - [BitCamp by Bit Project](https://github.com/bitprj/BitCamp): Free, open-source nonprofit providing curriculums for GameDev, JavaScript, NoSQL, Serverless-Functions, and Slack-Apps.
 - [Shawn Charles Value](https://shawncharles.com/value): A collection of useful resources collected by Tech X community host and developer Shawn Charles.
+- [Replit 100 Days of Code Python](https://replit.com/learn/100-days-of-python): !00 Days of code Python brought to you by Replit
 
 ## CLI
 - [Awesome Bash](https://github.com/awesome-lists/awesome-bash): Curated list for bash scripting
