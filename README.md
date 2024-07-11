@@ -119,7 +119,7 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
 - [Awesome Flask](https://github.com/mjhea0/awesome-flask): Curated Flask frameworks, libraries, and resources.
 - [Awesome Go](https://github.com/avelino/awesome-go): Comprehensive list of Go frameworks, libraries, software, and resources.
 - [Awesome Rust](https://github.com/rust-unofficial/awesome-rust): Curated projects and learning resources focused on Rust.
-- [Rustcrab](https://github.com/FrancescoXX/rustcrab):The non-crap repo for Rust Developers! Launched as an OpenSource project on July 11th 2024 by FrancescoXX 
+- [Rustcrab](https://github.com/FrancescoXX/rustcrab): The non-crap repo for Rust Developers! Launched as an OpenSource project on July 11th 2024 by FrancescoXX 
 - [Awesome Spring](https://github.com/ThomasVitale/awesome-spring): Collection of Spring Framework libraries, tools, and resources.
 - [Awesome Deno](https://github.com/denolib/awesome-deno#readme): Curated list of Deno resources.
 - [Awesome PHP](https://github.com/ziadoz/awesome-php): Curated list of all things PHP
