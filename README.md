@@ -19,7 +19,7 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
   - [SQL](#sql)
   - [NoSQL](#nosql)
   - [Public Datasets and APIs](#public-datasets-and-apis)
-- [Frameworks and Libraries](#frameworks-and-libraries)
+- [Frameworks tools and Libraries](#frameworks-tools-and-libraries)
   - [Front-End](#front-end)
   - [Back-End](#back-end)
 - [Mobile](#mobile)
