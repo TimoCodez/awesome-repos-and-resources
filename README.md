@@ -105,11 +105,13 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
 - [Public APIs by marcelscruz](https://github.com/marcelscruz/public-apis): A collective list of free APIs for development. Beneficial for software developers and API integrators.
 
   
-## Frameworks and Libraries
+## Frameworks tools and Libraries
 
 ### Front-End
 - [Awesome Front-End](https://github.com/syaning/awesome-frontend): Collection of front-end frameworks, libraries, and resources.
-
+- [Can I use](
+https://caniuse.com/): 
+Up-to-date browser support tables for support of front-end web technologies.
 
 ### Back-End
 - [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs): Comprehensive resources for Node.js frameworks, libraries, and tools.
