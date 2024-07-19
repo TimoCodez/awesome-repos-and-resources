@@ -112,6 +112,7 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
 - [Can I use](
 https://caniuse.com/): 
 Up-to-date browser support tables for support of front-end web technologies.
+- [universe.io](https://uiverse.io/): Open-Source UI elements for any project
 
 ### Back-End
 - [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs): Comprehensive resources for Node.js frameworks, libraries, and tools.
