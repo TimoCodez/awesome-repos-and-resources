@@ -1,0 +1,55 @@
+site_name: Awesome Tech and Programming Resources
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  palette:
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    
+
+nav:
+  - Home: index.md
+  - Programming Languages: programming-languages/index.md
+  - Frameworks and Libraries: frameworks-and-libraries/index.md
+  - Operating Systems: operating-systems/index.md
+  - Cloud Platforms: cloud-platforms/index.md
+  - Cybersecurity: cybersecurity/index.md
+  - Learning Resources: learning-resources/index.md
+  - Development Tools: development-tools/index.md
+  - Specialized Topics: specialized-topics/index.md
+  - Career Development: career-development/index.md
+  - Contributing: contributing.md
+  - Security: security.md
+  - Code of Conduct: code_of_conduct.md
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list

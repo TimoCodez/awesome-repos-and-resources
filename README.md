@@ -1,289 +1,45 @@
 # Awesome Tech and Programming related Repos and Online Resources
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+This curated collection of awesome repositories on GitHub is a comprehensive guide for developers, aspiring programmers, and anyone interested in exploring the vast world of open-source software. The list covers programming languages, frameworks, data science, DevOps, and more, offering valuable resources for various stages of development and learning.
 
-This curated collection of awesome repositories on GitHub is a comprehensive guide for developers, aspiring programmers, and anyone interested in exploring the vast world of open-source software. The list covers programming languages, frameworks, data science, DevOps, and more, offering valuable resources for various stages of development and learning. Theer are list of courses and practices site also included.
+## Documentation Website
 
-# Table of Contents
-- [OS](#os)
-  - [Linux](#linux)
-      - [Distros](#distros)
-  - [Mac](#Mac)
-  - [Windows11](#windows11)
-    
-- [Programming Languages](#programming-languages)
-  - [JavaScript](#javascript)
-  - [Python](#python)
-    - [Machine Learning](#machine-learning)
-  - [Java](#java)
-  - [SQL](#sql)
-  - [NoSQL](#nosql)
-  - [Public Datasets and APIs](#public-datasets-and-apis)
-- [Frameworks tools and Libraries](#frameworks-tools-and-libraries)
-  - [Front-End](#front-end)
-  - [Back-End](#back-end)
-- [Mobile](#mobile)
-- [Design](#design)
-- [Free Courses, websites and repos](#free-courses-websites-and-repos)
-- [CLI](#cli)
-- [Cloud](#cloud)
-  - [Azure](#azure)
-  - [GCP](#gcp)
-- [Cyber Security Repos and Practice Sites](#cyber-security-repos-and-practice-sites)
-- [Bug Bounty Platforms](#bug-bounty-platforms)
-- [Online Tools and Platforms for Cybersecurity](#online-tools-and-platforms-for-cybersecurity)
-- [GitHub](#Github)
-- [Project repos, tools and websites](#project-repos-tools-and-websites)
-- [Open-Source](#Open-Source)
-- [SQL Practice Sites](#sql-practice-sites)
-- [Docker and Kubernetes](#docker-and-kubernetes)
-- [System Design](#system-design)
-- [Mathematics Base for Programmers, Data Field and Machine Learning](#mathematics-base-for-programmers-data-field-and-machine-learning)
-  - [Mathematics and Statistics Courses (FREE)](#mathematics-and-statistics-courses-free)
-  - [Machine Learning Mathematics Courses on Coursera (FREE TO AUDIT)](#machine-learning-mathematics-courses-on-coursera-free-to-audit)
-- [Roadmaps](#roadmaps)
-- [Contact](#contact)
-- [Contribution Guidelines](#contribution-guidelines)
+For the full, organized list of resources, please visit our documentation website:
 
-## OS
-### Linux
-- [Awesome Linux](https://github.com/inputsh/awesome-linux): Comprehensive list of Linux resources, distros and tools.
- #### Distros
-  - [Kali Linux](https://www.kali.org/): The Kali Linux penetration testing platform contains a vast array of tools and utilities.
-  - [ParrotSec](https://www.parrotsec.org/): Choose between 600+ tools for every kind of Red and Blue team operation.
-  - [Ubuntu](https://ubuntu.com/): One of the most commonly used Linux distros.
-## Mac
-- [Awesome Mac](https://github.com/jaywcjlove/awesome-mac): Awesome list of Mac OS resources
-- [Windows11](https://github.com/awesome-windows11/windows11): Awesome W11 tips, tricks, tweaks and more.
+[https://timocodes.github.io/awesome-repos-and-resources/](https://timocodes.github.io/awesome-repos-and-resources/)
 
-## Programming Languages
+## About This Project
 
-### JavaScript
-- [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript): A comprehensive list of JavaScript frameworks, libraries, tools, and resources.
-- [Awesome React](https://github.com/enaqx/awesome-react): Collection of React frameworks, libraries, tools, and resources.
-- [Awesome Vue](https://github.com/vuejs/awesome-vue): Curated list of Vue.js resources, libraries, tools, and frameworks.
-- [Awesome Svelte](https://github.com/TheComputerM/awesome-svelte): Compilation of Svelte resources, libraries, tools, and frameworks.
-- [Awesome Nuxt](https://github.com/nuxt/awesome): Dedicated list for Nuxt.js resources, libraries, tools, and frameworks.
-- [Awesome Next.js](https://github.com/unicodeveloper/awesome-nextjs): Comprehensive resource list for Next.js libraries, tools, and frameworks.
-- [Awesome Svelte Kit](https://github.com/one-aalam/awesome-svelte-kit): Curated resources for Svelte Kit, including libraries, tools, and frameworks.
-- [Awesome Remix](https://github.com/m5r/awesome-remix): Collection of resources for Remix, encompassing libraries, tools, and frameworks.
-- [Awesome Astro](https://github.com/one-aalam/awesome-astro): Curated list of Astro resources, libraries, tools, and frameworks.
-- [JavaScript Algorithms by trekhleb](https://github.com/trekhleb/javascript-algorithms): Contains JavaScript-based examples of many popular algorithms and data structures. Great for JavaScript developers and computer science students.
-- [Awesome Solid.js](https://github.com/one-aalam/awesome-solid-js): A curated list of awesome things related to SolidJS
+This project aims to be a one-stop resource for finding high-quality, curated lists of programming and tech-related repositories and resources. Whether you're a beginner looking to start your coding journey or an experienced developer seeking new tools and libraries, you'll find valuable information in our documentation.
 
-### Python
-- [Awesome Python](https://github.com/vinta/awesome-python): Extensive list of Python libraries, frameworks, and resources.
-- [Awesome Data Science](https://github.com/academic/awesome-datascience): Collection of data science frameworks, libraries, resources, and tools.
-- [Awesome Data Science resources](https://github.com/natnew/Awesome-Data-Science): Comprehensive list for machine learning frameworks, libraries, and resources.
-- [The Python Open Source CS Degree](https://github.com/ForrestKnight/open-source-cs-python/blob/master/README.md): Compiled list of free resources from MIT, Stanford, Princeton, etc. that satisfy the same requirements as an undergraduate Computer Science degree, minus general education.
-- [Python CS50](https://cs50.harvard.edu/python/2022/): Python CS50
+## Main Categories
 
-#### Machine Learning
-- [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow): Curated TensorFlow tutorials, libraries, and resources.
-- [Awesome PyTorch](https://github.com/bharathgs/Awesome-pytorch-list): Collection of PyTorch frameworks, libraries, and resources.
-- [OpenCV](https://github.com/opencv/opencv): OpenCV official github with links and resources
-- [Ollama by jmorganca](https://github.com/jmorganca/ollama): An innovative project focused on machine learning and AI. Perfect for those interested in cutting-edge AI developments.
-- [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning): Curated resources for machine learning, including frameworks and libraries.
-- [Awesome GPTs](https://github.com/Anil-matcha/Top-GPTs): Curated list of top GPTs to dodge the ChatGPT paywall.
-- [Machine Learning for beginners](https://github.com/microsoft/ML-For-Beginners): 12 weeks ML course by Microsoft
-- [MIT Deeplearning book](https://github.com/janishar/mit-deep-learning-book-pdf?tab=readme-ov-file): The MIT Deeplearning book on PDF format. Repo includes project template and other goodies.
-- [Awesome Data Science](https://github.com/natnew/Awesome-Data-Science): Awesome data science.
+- Programming Languages
+- Frameworks and Libraries
+- Operating Systems
+- Cloud Platforms
+- Cybersecurity
+- Learning Resources
+- Development Tools
+- Specialized Topics
+- Career Development
 
-### Java
-- [Awesome Java](https://github.com/akullpp/awesome-java#readme): Extensive lists of all things Java.
+For detailed information on each category, please visit our documentation website.
 
+## Contributing
 
-### SQL
-- [Awesome SQL](https://github.com/danhuss/awesome-sql): Curated list of SQL tools, libraries, resources, and tutorials.
-- [Awesome Databases learning](https://github.com/pingcap/awesome-database-learning): Comprehensive list of database technologies and papers.
+We welcome contributions to this project! If you'd like to add a resource or suggest an improvement, please check our [Contribution Guidelines](CONTRIBUTING.md) for details on how to submit your changes.
 
-### NoSQL
-- [Awesome NoSQL](https://github.com/erictleung/awesome-nosql-guides): Curated list of NoSQL Resources
+## Code of Conduct
 
-### Public Datasets and APIs
-- [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets): Topic-centric list of public dataasets
-- [Public APIs by marcelscruz](https://github.com/marcelscruz/public-apis): A collective list of free APIs for development. Beneficial for software developers and API integrators.
-
-  
-## Frameworks tools and Libraries
-
-### Front-End
-- [Awesome Front-End](https://github.com/syaning/awesome-frontend): Collection of front-end frameworks, libraries, and resources.
-- [Can I use](
-https://caniuse.com/): 
-Up-to-date browser support tables for support of front-end web technologies.
-- [universe.io](https://uiverse.io/): Open-Source UI elements for any project
-
-### Back-End
-- [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs): Comprehensive resources for Node.js frameworks, libraries, and tools.
-- [Awesome Laravel](https://github.com/chiraggude/awesome-laravel): Curated Laravel packages, resources, and opinions.
-- [Awesome Ruby on Rails](https://github.com/gramantin/awesome-rails): Best practices and coding conventions for Ruby on Rails framework.
-- [Awesome Django](https://github.com/wsvincent/awesome-django): Collection of Django frameworks, libraries, and resources.
-- [Awesome Flask](https://github.com/mjhea0/awesome-flask): Curated Flask frameworks, libraries, and resources.
-- [Awesome Go](https://github.com/avelino/awesome-go): Comprehensive list of Go frameworks, libraries, software, and resources.
-- [Awesome Rust](https://github.com/rust-unofficial/awesome-rust): Curated projects and learning resources focused on Rust.
-- [Rustcrab](https://github.com/FrancescoXX/rustcrab): The non-crap repo for Rust Developers! Launched as an OpenSource project on July 11th 2024 by FrancescoXX 
-- [Awesome Spring](https://github.com/ThomasVitale/awesome-spring): Collection of Spring Framework libraries, tools, and resources.
-- [Awesome Deno](https://github.com/denolib/awesome-deno#readme): Curated list of Deno resources.
-- [Awesome PHP](https://github.com/ziadoz/awesome-php): Curated list of all things PHP
-
-## Mobile
-- [Awesome Swift](https://github.com/matteocrippa/awesome-swift#readme): Curated list of awesome Swift resources and tutorials.
-- [Awesome React Native](https://github.com/jondot/awesome-react-native): Curated list of React Native components, tools, and resources.
-- [Awesome Flutter](https://github.com/Solido/awesome-flutter): Extensive resources for Flutter, including libraries, tools, and tutorials.
-
-
-## Design
-- [Design Resources for Developers by bradtraversy](https://github.com/bradtraversy/design-resources-for-developers): A comprehensive list of design and UI resources for developers. Useful for front-end developers and web designers.
-- [Awesome CSS](https://github.com/uhub/awesome-css): Curated list of CSS resources
-- [Awesome Tailwind CSS](https://github.com/aniftyco/awesome-tailwindcss): Curated list of Tailwind CSS resources, plugins, tools and more..
-- [CSS Frameworks](https://github.com/troxler/awesome-css-frameworks): Curated list of different CSS Frameworks. 
-
-## Free Courses, websites and repos
-- [Codewars](https://www.codewars.com/): Online code challenges for programming skill development.
-- [LeetCode](https://leetcode.com/): Platform with a vast library of programming problems for practice.
-- [W3Schools](https://www.w3schools.com/): Comprehensive resource for learning web development languages and technologies.
-- [FreeCodeCamp](https://www.freecodecamp.org/): Free coding bootcamp with interactive tutorials and exercises.
-- [freeCodeCamp by freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp): An open-source community that helps you learn to code. Perfect for beginners and those looking to strengthen their programming skills.
-- [FullStackOpen](https://fullstackopen.com/en/): Open-source Full-Stack Web Development Course from University of Helsinki and Houston.
-- [Mooc.fi](https://www.mooc.fi/en/study-modules/): Finnish MOOC platform offering courses in programming, Cybersecurity and data science in English and Finnish.
-- [Best Websites for Programmers by sdmg15](https://github.com/sdmg15/Best-websites-a-programmer-should-visit): An essential list of websites and resources for programmers. Useful for all levels of software developers and computer science students.
-- [Web Development for Beginners by Microsoft](https://github.com/microsoft/Web-Dev-For-Beginners): A 24-lesson curriculum all about JavaScript, CSS, and HTML basics. Ideal for those starting in web development. 
-- [The Odin Project](https://www.theodinproject.com/): Structured curriculum for learning web development.
-- [Dataquest.io](https://www.dataquest.io/): Courses on data science topics, including SQL, Python, and Machine Learning.
-- [DataCamp](https://www.datacamp.com/): Interactive courses on data science with hands-on projects and community support.
-- [SoloLearn](https://www.sololearn.com/en/): Coding courses for beginners and experienced developers.
-- [Mimo](https://mimo.org/): Interactive coding lessons in a gamified mobile app format.
-- [Py4e.com](https://www.py4e.com/): Python for everybody. Interactive Python tutorials covering the basics of the language.
-- [Dj4e.com](https://www.dj4e.com/): Django for everybody Interactive Python Django tutorials.
-- [Pg4e.com](https://www.pg4e.com/): PostgreSQL for Everybody. Tutorials on working with PostgreSQL databases.
-- [Kaggle](https://www.kaggle.com/): Platform for data scientists with machine learning competitions and shared resources.
-- [100Devs](https://leonnoel.com/100devs/): Free, community-based program by Leon Noel for tech job skills and full stack development.
-- [Awesome free courses and certs](https://github.com/cloudcommunity/Free-Certifications): curated list of free courses and certs by Cloudcommunity.
-- [BitCamp by Bit Project](https://github.com/bitprj/BitCamp): Free, open-source nonprofit providing curriculums for GameDev, JavaScript, NoSQL, Serverless-Functions, and Slack-Apps.
-- [Shawn Charles Value](https://shawncharles.com/value): A collection of useful resources collected by Tech X community host and developer Shawn Charles.
-- [Replit 100 Days of Code Python](https://replit.com/learn/100-days-of-python): !00 Days of code Python brought to you by Replit
-
-## CLI
-- [Awesome Bash](https://github.com/awesome-lists/awesome-bash): Curated list for bash scripting
-- [Awesome PowerShell](https://github.com/janikvonrotz/awesome-powershell): Curated list of Awesome PowerShell resources
-- [Awesome Shell](https://github.com/alebcay/awesome-shell): A curated list of Linux Shell resources etc.
-
-## Cloud
-### Azure
-- [Awesome Azure Architecture](https://github.com/lukemurraynz/awesome-azure-architecture): A curated list of AWESOME blogs, videos, tutorials, code, tools & scripts, related to the design and implementation of solutions in Microsoft Azure
-### GCP
-- [Awesome GCP](https://github.com/GoogleCloudPlatform/awesome-google-cloud): A curated list of awesome applications, tools, and resources for Google Cloud Platform.
-
-## Cyber Security Repos and Practice Sites
-- [Awesome Pentest by enaqx](https://github.com/enaqx/awesome-pentest): A collection of penetration testing resources, tools, and more. Essential for cybersecurity professionals and penetration testers.
-- [Awesome Cybersecurity by liyansong2018](https://github.com/liyansong2018/awesome-cybersecurity): A curated collection of cybersecurity resources. Great for anyone in the cybersecurity field, including security analysts and ethical hackers.
-- [PicoCTF](https://picoctf.org/): Online CTF game for learning cybersecurity through challenges.
-- [TryHackMe](https://tryhackme.com/): Cybersecurity challenges with tutorials, walkthroughs, and lab environments.
-- [PortSwigger Academy](https://portswigger.net/web-security): Courses on web application security from the creators of Burp Suite.
-- [PentesterLab](https://pentesterlab.com/): Penetration testing environments for learning cybersecurity skills.
-- [HackTheBox](https://www.hackthebox.com/): Penetration testing challenges and labs for skill development.
-- [Haiku](https://product.haikuinc.io/haiku/): Interactive walkthroughs for learning cybersecurity concepts.
-- [LetsDefend.io](https://letsdefend.io/): Cybersecurity training with tutorials, exercises, and community forums.
-- [Hacker101](https://www.hacker101.com/): Comprehensive curriculum for learning cybersecurity skills.
-- [Certified in Cybersecurity](https://www.isc2.org/certifications/cc): CC Entry level Cybersecurity Certificate free for the first 1Million participants.
-- [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking): Awesome list of resources for Hackers, Pentesters and Security researchers.
-- [Awesome web security](https://github.com/qazbnm456/awesome-web-security): A curated list of all things web security and hacking
-- [Awesome OSINT](https://github.com/jivoi/awesome-osint): Curated list of amazingly awesome OSINT resources and tools
-- [Awesome Cybersecurity](https://github.com/Berkanktk/CyberSecurity): Massive list of Cybersecurity resources and repos by Berkanktk
-- [Awesome Censys Queries](https://github.com/thehappydinoa/awesome-censys-queries): Awesome repo for Censys Queries ready to copy paste
-
-## Bug Bounty Platforms
-- [HackerOne](https://www.hackerone.com/): Platform connecting security researchers with companies for vulnerability reporting.
-- [Intigriti](https://www.intigriti.com/): Bug bounty programs and security services for companies.
-- [BugCrowd](https://www.bugcrowd.com/): Platform for cybersecurity professionals to find and report vulnerabilities.
-
-## Online Tools and Platforms for Cybersecurity 
-
-- [Shodan](https://www.shodan.io/): A search engine for Internet-connected devices. It's an invaluable tool for network security professionals and cybersecurity researchers, helping to discover which of your devices are connected to the internet, where they are located, and who is using them.
-- [WhiteRabbitNeo](https://www.whiterabbitneo.com/): Cybersecurity finetuned Chatbot.
-- [F-Secure SMS checker](https://www.f-secure.com/en/text-message-checker): SMS Scam checker. Currently as of 4/2024 on beta phase
-- [Search Censys](https://search.censys.io/): censys search tool to find things open into internet
-
-- [GPT Censys](https://gpt.censys.io/): Censys Search GPT
- 
-
-## GitHub
-- [Awesome GitHub Profiles](https://github.com/abhisheknaiidu/awesome-github-profile-readme): Awesome list of Awesome GitHub profile READMEs
-- [Awesome GitHub Cheatsheets](https://github.com/tiimgreen/github-cheat-sheet): A collection of cool hidden and not so hidden features of Git and GitHub.
-- [Awesome Git](https://github.com/dictcp/awesome-git): Curated list of awesome resources to master Git 
-
-## Project repos, tools and websites
-- [30 Seconds of Code by Chalarangelo](https://github.com/Chalarangelo/30-seconds-of-code): A collection of short code snippets for all your development needs. Ideal for quick learning and reference for developers.
-- [Projects by karan](https://github.com/karan/Projects): A list of practical projects that anyone can solve in any programming language. Suitable for developers looking to improve their coding skills.
-- [Build Your Own X by codecrafters-io](https://github.com/codecrafters-io/build-your-own-x): Encourages you to learn by doing, by building clones of popular technologies. Fantastic for hands-on learners and developers looking to understand how things work.
-- [Threestudio by threestudio-project](https://github.com/threestudio-project/threestudio): A creative tool for 3D design and animation. Great for designers and developers in game development and 3D modeling.
-- [Mini projects](https://github.com/Nisheet-Patel/Mini-Projects?tab=readme-ov-file): List of multiple mini projects on various languages.
-
-## Open-Source 
-- [Awesome projects for beginners](https://github.com/MunGell/awesome-for-beginners): List of beginner friendly projects.
-- [Up for grabs](https://up-for-grabs.net/): Filter the projects for your liking and timeframe for last update and get involved.
-- [First timers only](https://www.firsttimersonly.com): a collection of links for new open source contributions 
-
-## SQL Practice Sites
-- [SQLFiddle](http://sqlfiddle.com/): Interactive tool for experimenting with SQL queries.
-- [GetSQLPad](https://getsqlpad.com/): Collaborative environment for practicing SQL queries.
-- [SQLZoo](https://sqlzoo.net/): Collection of SQL practice problems.
-- [db-fiddle](https://www.db-fiddle.com/): Tool for experimenting with SQL queries.
-- [livesql.oracle.com/](https://livesql.oracle.com/): Oracle's database for practicing SQL queries.
-- [sql-playground.wizardzines.com/](https://sql-playground.wizardzines.com/): Interactive tool for SQL query experimentation.
-- [sandboxsql.com/](https://www.sandboxsql.com/): Cloud-based SQL database for practice and experimentation.
-
-## Docker and Kubernetes
-- [Awesome Docker by veggiemonk](https://github.com/veggiemonk/awesome-docker): A curated list of Docker resources and projects. Ideal for DevOps engineers and cloud computing professionals.
-- [Awesome K8s Resources by tomhuang12](https://github.com/tomhuang12/awesome-k8s-resources): An extensive collection of Kubernetes resources and tools. Great for system administrators and engineers working in container orchestration.
-
-## System Design
-- [System Design Primer by donnemartin](https://github.com/donnemartin/system-design-primer): A repository to learn about system design. Invaluable for software engineers and system architects.
-
-## Mathematics Base for Programmers, Data Field and Machine Learning
-
-### Mathematics and Statistics Courses (FREE)
-
-- [Khan Academy - Statistics and Probability](https://www.khanacademy.org/math/statistics-probability): Ideal for data analysts and data scientists, this course covers foundational concepts in statistics and probability.
-- [Khan Academy - Probability](https://www.khanacademy.org/math/probability): Essential for software engineers and AI specialists, focusing on probability theories and applications.
-- [Khan Academy - AP Statistics](https://www.khanacademy.org/math/ap-statistics): Great for aspiring data scientists, offering advanced statistics concepts used in data analysis.
-- [Khan Academy - Precalculus](https://www.khanacademy.org/math/precalculus): Useful for developers and engineers, providing a strong mathematical foundation.
-- [Khan Academy - Differential Calculus](https://www.khanacademy.org/math/differential-calculus): Important for AI and machine learning professionals, covering the basics of differential calculus.
-- [Khan Academy - Integral Calculus](https://www.khanacademy.org/math/integral-calculus): Key for those in scientific computing and algorithm development, focusing on integral calculus.
-- [Khan Academy - Calculus 1](https://www.khanacademy.org/math/calculus-1): Essential for programmers and analysts, offering an introduction to calculus.
-- [Khan Academy - Calculus 2](https://www.khanacademy.org/math/calculus-2): Advanced calculus topics beneficial for machine learning and complex algorithm developers.
-- [Khan Academy - AP Calculus AB](https://www.khanacademy.org/math/ap-calculus-ab): Useful for software developers, covering first-semester college calculus.
-- [Khan Academy - AP Calculus BC](https://www.khanacademy.org/math/ap-calculus-bc): Second-semester college calculus, important for engineers and AI professionals.
-- [Khan Academy - Linear Algebra](https://www.khanacademy.org/math/linear-algebra): Critical for machine learning and data science, focusing on linear algebra concepts.
-
-### Machine Learning Mathematics Courses on Coursera (FREE TO AUDIT)
-
-- [Coursera - Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science): A comprehensive series for data scientists and AI practitioners, covering essential mathematical concepts for machine learning and data science.
-- [Coursera - Machine Learning: Probability and Statistics](https://www.coursera.org/learn/machine-learning-probability-and-statistics): Focused on probability and statistics in machine learning, this course is vital for machine learning engineers and data analysts.
-- [Coursera - Machine Learning: Calculus](https://www.coursera.org/learn/machine-learning-calculus): Designed for machine learning enthusiasts, it delves into the calculus concepts used in machine learning algorithms.
-- [Coursera - Machine Learning: Linear Algebra](https://www.coursera.org/learn/machine-learning-linear-algebra): Essential for anyone in AI and machine learning, focusing on linear algebra and its applications in machine learning models.
-
-## Roadmaps
-- [Roadmap.sh](https://roadmap.sh/): Multiple language and techfield based roadmaps.
-- [Data Science Master by datasciencemasters](https://github.com/datasciencemasters/go): An open-source data science curriculum. Excellent for aspiring data scientists and analysts.
-- [Roadmap To Learn Generative AI In 2024 by krishnaik06](https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024): A comprehensive roadmap for learning Generative AI, ideal for AI enthusiasts and professionals looking to specialize in generative models.
-- [OSSU](https://github.com/ossu/computer-science): Open Source Society University. Path to a free self-taught education in Computer Science!
-- [One To Seven Free Game Dev Bootcamp](https://github.com/EstebanGameDevelopment/OneToSevenCompleCourse): Free online Game Dev bootcamp 
-
+Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project, you agree to abide by its terms.
 
 ## Contact
-If you have any question about this collection of links, do not hesitate to contact me [@TimoCodes](https://www.X.com/TimoCodes) on X or open an issue on GitHub.
 
-## Contribution Guidelines
+If you have any questions about this collection of resources, do not hesitate to contact me [@TimoCodes](https://www.X.com/TimoCodes) on X or open an issue on GitHub.
 
-See the separate file [Contribution Guidelines](https://github.com/TimoCodez/awesome-repos-and-resources/blob/main/CONTRIBUTING.md)
+## License
 
-
-
-
-
-
-
-
-
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

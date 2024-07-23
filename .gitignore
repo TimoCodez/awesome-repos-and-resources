@@ -1,0 +1,24 @@
+# Python virtual environment
+venv/
+
+# MkDocs build directory
+site/
+
+# Python byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor-specific files
+.vscode/
+*.swp
+*.swo
+
+# Environment variables
+.env
+
+# Logs
+*.log
