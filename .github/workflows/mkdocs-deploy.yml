@@ -12,4 +12,8 @@ jobs:
         with:
           python-version: 3.x
       - run: pip install mkdocs-material
+      - run: git config --global user.name "GitHub Actions"
+      - run: git config --global user.email "github-actions@github.com"
       - run: mkdocs gh-deploy --force
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
