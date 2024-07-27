@@ -8,7 +8,7 @@ This curated collection of awesome repositories on GitHub is a comprehensive gui
 
 For the full, organized list of resources, please visit our documentation website:
 
-[https://timocodes.github.io/awesome-repos-and-resources/](https://timocodes.github.io/awesome-repos-and-resources/)
+[https://timocodes.github.io/awesome-repos-and-resources/](https://timocodez.github.io/awesome-repos-and-resources/)
 
 ## About This Project
 
