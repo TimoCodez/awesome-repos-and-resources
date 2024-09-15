@@ -35,6 +35,7 @@ This section covers a range of specialized areas in technology and development. 
 - [Awesome Data Science](https://github.com/academic/awesome-datascience): An awesome Data Science repository to learn and apply for real-world problems.
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning): A curated list of awesome Machine Learning frameworks, libraries and software.
 - [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning): A curated list of awesome Deep Learning tutorials, projects and communities.
+- [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets): A Curated list of Public datasets for you to use in projects.
 
 ## Mathematics for Programmers
 

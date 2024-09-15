@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Welcome to this curated collection of awesome repositories on GitHub! This comprehensive guide is designed for developers, aspiring programmers, and anyone interested in exploring the vast world of open-source software. Our list covers programming languages, frameworks, data science, DevOps, and more, offering valuable resources for various stages of development and learning.
+Welcome to this curated collection of awesome repositories on GitHub! This comprehensive guide is designed for developers, aspiring programmers, and anyone interested in exploring the vast world of open-source software. Our list covers programming languages, frameworks, data science, DevOps, and more, offering valuable resources for various stages of development and learning. Here is a link to the [GitHub repo](https://github.com/TimoCodez/awesome-repos-and-resources)
 
 ## About This Project
 
@@ -21,6 +21,7 @@ Our resources are organized into the following main categories:
 - **Development Tools**: Find information on CLI tools, Docker, Kubernetes, and more.
 - **Specialized Topics**: Dive into areas like mobile development, design, and system design.
 - **Career Development**: Explore roadmaps and open-source contribution opportunities.
+- **Web3**: Explore Web3 and NFT project resources.
 
 Use the navigation menu to explore each section in detail.
 
