@@ -37,7 +37,7 @@ nav:
   - Contributing: contributing.md
   - Security: security.md
   - Code of Conduct: code_of_conduct.md
-  - Web3: web3/index.md
+  - Web3: Web3/index.md
 
 markdown_extensions:
   - pymdownx.highlight:
