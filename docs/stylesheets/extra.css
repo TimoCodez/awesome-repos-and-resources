@@ -1,0 +1,15 @@
+/* Custom styles for navigation */
+.md-tabs__item {
+    font-size: 0.7rem;  /* Reduce font size */
+    padding: 0.5rem 0.7rem;  /* Reduce padding */
+}
+
+.md-tabs__link {
+    margin-top: 0.4rem;  /* Adjust vertical alignment */
+}
+
+@media screen and (max-width: 76.1875em) {
+    .md-nav--primary .md-nav__title[for=__drawer] {
+        font-size: 1rem;  /* Smaller title in mobile view */
+    }
+}

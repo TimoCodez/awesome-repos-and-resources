@@ -2,15 +2,13 @@ site_name: Awesome Tech and Programming Resources
 theme:
   name: material
   features:
-    - navigation.tabs
-    - navigation.tabs.sticky
-    - navigation.sections
-    - toc.integrate
+    - navigation.instant
+    - navigation.tracking
+    - navigation.top
+    - toc.follow
     - search.suggest
     - search.highlight
-    - content.tabs.link
-    - content.code.annotation
-    - content.code.copy
+
   palette:
     # Palette toggle for dark mode
     - scheme: slate
@@ -35,10 +33,11 @@ nav:
   - Development Tools: development-tools/index.md
   - Specialized Topics: specialized-topics/index.md
   - Career Development: career-development/index.md
-  - Contributing: contributing.md
-  - Security: security.md
-  - Code of Conduct: code_of_conduct.md
   - Web3: Web3/index.md
+  - Contribute:
+      - Guidelines: contributing.md
+      - Security: security.md
+      - Code of Conduct: code_of_conduct.md
 
 markdown_extensions:
   - pymdownx.highlight:
