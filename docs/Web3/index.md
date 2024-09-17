@@ -6,6 +6,8 @@ This section covers a range of specialized areas in Web3 technology and developm
 - [Web3](#web3)
   - [Table of Contents](#table-of-contents)
   - [Web3](#web3-1)
+  - [Whitepapers](#whitepapers)
+  - [Blockchains](#blockchains)
 
 ## Web3
 
@@ -19,4 +21,13 @@ This section covers a range of specialized areas in Web3 technology and developm
 - [Metaschool](https://metaschool.so/): We create fun learning projects for builders that
 become the legos for building successful products.
 
-More to come soon...
+## Whitepapers
+
+- [Bitcoin](https://bitcoin.org/bitcoin.pdf): Bitcoin Whitepaper
+- [Ethereum](https://ethereum.org/en/whitepaper/): Ethereum Whitepaper
+
+## Blockchains
+- [Ethereum Development tutorials](https://ethereum.org/en/developers/tutorials/): Curated list of community tutorials
+- [Ethereum Learn](https://ethereum.org/en/learn/): Your educational guide to the world of Ethereum.
+- [Solana Developer Resources](https://solana.com/developers): Use these Solana Foundation and community courses to begin your journey into Solana development.
+- [Solana Learn](https://solana.com/learn/blockchain-basics): Blockchain and Solana 101
